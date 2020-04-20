@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<income>
+  <record>
+    <date>20.04.2020</date>
+    <description>Maaş</description>
+    <category>CAR</category>
+    <amount>4000</amount>
+  </record>
+  <record>
+    <date>20.04.2020</date>
+    <description>Devlet</description>
+    <category>OTHER</category>
+    <amount>0</amount>
+  </record>
+</income>

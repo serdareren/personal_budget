@@ -1,0 +1,82 @@
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddCategory.resources
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddNewIncomes.resources
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddNewExpense.resources
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Intro.resources
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ExpenseManeg.resources
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.IncomeManeg.resources
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.resources
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PersonalBudgetManagementSystem.csproj.GenerateResource.Cache
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\serdar\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\budget.xml
+C:\Users\SERDAR\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PersonalBudgetManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\SERDAR\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateExpense.resources
+C:\Users\SERDAR\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateIncome.resources
+C:\Users\SERDAR\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateCategory.resources
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\budget.xml
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PersonalBudgetManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddCategory.resources
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddNewIncomes.resources
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddNewExpense.resources
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Intro.resources
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ExpenseManeg.resources
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.IncomeManeg.resources
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.resources
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateCategory.resources
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateExpense.resources
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateIncome.resources
+C:\Users\SERDAR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PersonalBudgetManagementSystem.csproj.GenerateResource.Cache
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\budget.xml
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PersonalBudgetManagementSystem.csprojAssemblyReference.cache
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddCategory.resources
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddNewIncomes.resources
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddNewExpense.resources
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Intro.resources
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ExpenseManeg.resources
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.IncomeManeg.resources
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.resources
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateCategory.resources
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateExpense.resources
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateIncome.resources
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PersonalBudgetManagementSystem.csproj.GenerateResource.cache
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PersonalBudgetManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\serda\OneDrive\Masaüstü\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\budget.xml
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PersonalBudgetManagementSystem.csprojAssemblyReference.cache
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddCategory.resources
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddNewIncomes.resources
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddNewExpense.resources
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Category.resources
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Intro.resources
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ExpenseManeg.resources
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.IncomeManeg.resources
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.resources
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateCategory.resources
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateExpense.resources
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateIncome.resources
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PersonalBudgetManagementSystem.csproj.GenerateResource.cache
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PersonalBudgetManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\serda\OneDrive\Masaüstü\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

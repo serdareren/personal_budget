@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<income>
+  <record>
+    <date>2.01.2016</date>
+    <description>test 1</description>
+    <category>CAR</category>
+    <amount>250</amount>
+  </record>
+  <record>
+    <date>30.12.2015</date>
+    <description>test 2</description>
+    <category>KİTCHEN</category>
+    <amount>120</amount>
+  </record>
+  <record>
+    <date>31.12.2015</date>
+    <description>test 3</description>
+    <category>OTHER</category>
+    <amount>622</amount>
+  </record>
+  <record>
+    <date>1.01.2016</date>
+    <description>test 4</description>
+    <category>CLOTHES</category>
+    <amount>300</amount>
+  </record>
+</income>

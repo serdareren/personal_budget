@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<category>
+  <record>
+    <name>CAR</name>
+  </record>
+  <record>
+    <name>OTHER</name>
+  </record>
+  <record>
+    <name>CLOTHES</name>
+  </record>
+  <record>
+    <name>KİTCHEN</name>
+  </record>
+</category>
